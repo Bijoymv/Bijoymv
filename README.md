@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bijoy Moolekkadan Vidyadharan
 - 👀 I’m interested in building Web Mobile Javascript applications 
-- 🌱 I’m currently learning Typescript
 - 📫 How to reach me Email: mv.bijoy@gmail.com
 
 <!---
